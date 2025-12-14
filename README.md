@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Yakasi Cennakesava</h1>
+<h1 align="center">Hey 👋, I'm Yakasi Chennakesava</h1>
 <h3 align="center">💻 Java Developer | 🌐 Web Enthusiast | 🔧 FPGA & ARM Learner</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
 ---
 
 ### 🧠 About Me
-- 🌍 From *India*  
-- 🎓 Engineering Student (Computer Science / ECE background)  
+- 🌍 From *Madanapalle, Andhra Pradesh, India*  
+- 🎓 Engineering Student (*ECE Background*)  
 - 💼 Skilled in *Java, SQL & Web Development*  
 - 🔧 Worked on *ARM Processor Design on FPGA*  
 - ⚡ Fun fact: I enjoy solving coding problems & building projects  
@@ -44,12 +44,12 @@
 
 ### 🏆 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yakasicennakesava&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yakasicennakesava&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yakasi-chennakesava&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yakasi-chennakesava&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasicennakesava&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasi-chennakesava&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -57,15 +57,12 @@
 ### 🌟 Featured Projects
 🧩 **JDBC CRUD Application**  
 🔹 Java-based application for database operations using JDBC  
-🔹 Implemented Create, Read, Update & Delete features  
 
 🧩 **E-Commerce Website (UI)**  
-🔹 Built using HTML & CSS  
-🔹 Responsive product layout and clean design  
+🔹 Built using HTML & CSS with responsive design  
 
 🧩 **ARM Processor on FPGA**  
-🔹 Designed using Verilog HDL  
-🔹 Implemented core processor modules  
+🔹 Designed and implemented using Verilog HDL  
 
 ---
 
@@ -80,13 +77,13 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/chennakesava268" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:viswanathagpl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yakasicennakesava">
+  <a href="https://github.com/yakasi-chennakesava">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
