@@ -1,53 +1,83 @@
-<h1 align="center">Hi 👋, I'm Yakasi Cennakesava</h1>
+<h1 align="center">Hi 👋 I'm Yakasi Cennakesava</h1>
 <h3 align="center">Aspiring Software Engineer | Java | Web | SQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yakasicennakesava&label=Profile%20Views&color=0d1117&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Web+Developer;Backend+Enthusiast;Always+Learning&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yakasicennakesava&label=Profile%20Views&color=brightgreen&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Engineering Student passionate about software development  
-- 💻 Strong foundation in **Java, SQL, and Web Technologies**  
-- 🔧 Experience with **JDBC, CRUD operations, and backend logic**  
-- 🧠 Exposure to **FPGA & ARM Processor Design**  
-- 🎯 Career goal: **Software Engineer**
+## 🎨 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Engineering Student  
+- 💻 Passionate about **Java & Backend Development**  
+- 🌐 Experience with **Web Technologies**  
+- 🔧 Worked on **FPGA & ARM Processor Design**  
+- 🚀 Goal: **Become a Software Engineer**
 
 ---
 
-## 🛠 Technical Skills
-- **Programming:** Java, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode&theme=light" />
+</p>
+
+---
+
+## 🌟 Skill Highlights
+- 🟢 **Java** – OOP, JDBC, CRUD  
+- 🔵 **SQL / MySQL** – Queries, Joins, Procedures  
+- 🟠 **Web Development** – HTML, CSS, Responsive Design  
+- 🟣 **Tools** – Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects
-- **JDBC CRUD Application** – Java-based database operations  
-- **E-Commerce Website** – Responsive UI using HTML & CSS  
-- **ARM Processor on FPGA** – Verilog HDL implementation  
+| 🚀 Project | 📝 Description |
+|-----------|---------------|
+| **JDBC CRUD App** | Java-based database operations |
+| **E-Commerce Website** | Responsive HTML & CSS UI |
+| **ARM Processor on FPGA** | Verilog HDL implementation |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakasicennakesava&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasicennakesava&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yakasicennakesava&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasicennakesava&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yakasicennakesava&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-### ✨ Quote
-> *“First write correct code, then write efficient code.”*
+### 💡 Quote
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
 
 ---
 
-⭐ If you find my projects interesting, feel free to **follow** or **star** my repositories!
+⭐ **Thanks for visiting my profile! Don’t forget to follow 😊**
